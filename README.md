@@ -1,0 +1,2 @@
+# SpringCashPractice
+JPQL, Named Queries
